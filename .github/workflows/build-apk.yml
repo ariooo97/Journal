@@ -1,4 +1,4 @@
-name: Build Binary Journal APK
+name: name: Binary Journal APK Builder
 
 on:
   workflow_dispatch:
